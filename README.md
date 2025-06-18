@@ -7,7 +7,11 @@ Simple code that creates a fake workspace with some blank documents on it. Inclu
 - Follow the script and done.
 
 <b>To execute .sh file:</b><br>
-- On Linux, in your terminal execute: "./create_worskpace.sh" 
+- On Linux, in your terminal execute:
+
+```
+  ./create_worskpace.sh 
+````
 
 *Studying purposes only.
 
